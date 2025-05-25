@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+numpy
+waitress
+rapidfuzz
+scikit-learn
+typing-extensions
