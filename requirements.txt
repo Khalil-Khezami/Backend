@@ -6,3 +6,4 @@ waitress
 rapidfuzz
 scikit-learn
 typing-extensions
+gunicorn==20.1.0
